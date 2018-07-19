@@ -1,4 +1,4 @@
-A. Boy or Girl
+Boy or Girl
 time limit per test1 second
 memory limit per test256 megabytes
 inputstandard input
@@ -16,17 +16,17 @@ Output
 If it is a female by our hero's method, print "CHAT WITH HER!" (without the quotes), otherwise, print "IGNORE HIM!" (without the quotes).
 
 Examples
-inputCopy
+input
 wjmzbmr
-outputCopy
+output
 CHAT WITH HER!
-inputCopy
+input
 xiaodao
-outputCopy
+output
 IGNORE HIM!
-inputCopy
+input
 sevenkplus
-outputCopy
+output
 CHAT WITH HER!
 Note
 For the first example. There are 6 distinct characters in "wjmzbmr". These characters are: "w", "j", "m", "z", "b", "r". So wjmzbmr is a female and you should print "CHAT WITH HER!".
